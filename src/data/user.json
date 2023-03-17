@@ -1,0 +1,21 @@
+[
+    
+    {
+        "id": 1,
+        "name": "Canela",
+        "email": "canelaNutella@gmail.com",
+        "edad": "",
+        "pass": "$2a$12$PRJOIks3BVa.VE2NL67cFOUDtnaglw.B41.wXbjbsUWn2CUDhL2ye",
+        "colors": "#800000",
+        "rol": "usuario"
+    },
+    {
+        "id": 3,
+        "name": "Horus",
+        "email": "horus.gato.gordo@gmail.com",
+        "edad": "",
+        "pass": "$2a$12$sIunCeRemLQ0Z1acftIOmu7EwQjv8CshULeL56rQpnlxFPrUk/.4C",
+        "colors": "#800080",
+        "rol": "usuario"
+    }
+]
